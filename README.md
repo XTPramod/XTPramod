@@ -6,6 +6,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pramodhans51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pramodhans51" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pramod kumar hans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pramod kumar hans" height="30" width="40" /></a>
+<a href="https://instagram.com/xt_pramod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xt_pramod" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
